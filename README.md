@@ -1,7 +1,8 @@
 # Xplab-Stage
 
-Questa è la raccolta dei progetti realizzati durante le tre settimane di stage presso [Xplab S.a.s.](http://xplab.net/), dal 12/06/2023 al 30/06/2023
-L'obiettivo era di realizzare un piccolo programma per ogni nuova libreria imparata, in modo da prendere dimestichezza con la stessa. Sono tutti realizzati nel linguaggio proprietario della Xplab, [Power-KI](http://power-ki.com/) ed il mio livello di conoscenza del linguaggio all'arrivo in azienda era nullo.
+Questa è la raccolta dei progetti realizzati durante le tre settimane di stage presso [Xplab S.a.s.](http://xplab.net/), dal 12/06/2023 al 30/06/2023.<br>
+L'obiettivo era di realizzare un piccolo programma per ogni nuova libreria imparata, in modo da prendere dimestichezza con la stessa.<br>
+Sono tutti realizzati nel linguaggio proprietario dell'azienda, [Power-KI](http://power-ki.com/) ed il mio livello di conoscenza del linguaggio all'arrivo in azienda era pari a zero.
 ---
 ### Ciao-01 e Ciao-02
 I primi due programmi realizzati nel primo giorno di stage, ciao-01 è un programma da riga di comando(CLI), invece ciao-02 sfrutta le funzionalità GUI di Power-KI. Questi due esercizi fanno parte della rivista [Fast.Track-01](https://issuu.com/xplab/docs/pwk-ft-01-it) e servono come punto di partenza per conoscere l'ambiente Power-KI.

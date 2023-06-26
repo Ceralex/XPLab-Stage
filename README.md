@@ -19,7 +19,7 @@ Questo programma è una versione modificata del "Ciao-02", che rende impossibile
 <img style="object-fit:cover; width:100%" src="https://i.ibb.co/sQ9v0j1/scherzo-01.png">
 
 ### Rete-01
-Questo programma sfrutta il protocollo UDP per creare uno scambio di messaggi tra due o più host. Nella casella di input in alto basta inserire l'ip del destinatario e, se esso è in ascolto, riceverà il messaggio e lo visualizzerà nel riquadro centrale.
+Questo programma sfrutta il protocollo UDP per creare uno scambio di messaggi tra due o più host sfruttando la libreria SOK per le operazioni con le socket. Nella casella di input in alto basta inserire l'ip del destinatario e, se esso è in ascolto, riceverà il messaggio e lo visualizzerà nel riquadro centrale.
 
 <img style="object-fit:cover; width:100%" src="https://i.ibb.co/qxkDF5z/rete-01.png">
 
@@ -27,3 +27,11 @@ Questo programma sfrutta il protocollo UDP per creare uno scambio di messaggi tr
 Questo programma sfrutta due [dll](https://en.wikipedia.org/wiki/Dynamic-link_library) create ad hoc per la [Intel Realsense D435](https://www.intelrealsense.com/depth-camera-d435/) e mostra contemporaneamente le 4 diverse modalità di visione del dispositivo.
 
 <img style="object-fit:cover; width:100%" src="https://i.ibb.co/9GgSPpv/realsense-01.png">
+
+### Point-drawer-01
+In questo programma si fa uso della funzionalità DRAW delle immagini inserite in una GUI. L'interfaccia è composta da tre sezioni:
+- Quella a destra è il pannello su cui vengono disegnati i punti
+- Quella a sinistra è una grid con tutti i punti che sono stati creati
+- La sezione in basso a sinistra rappresenta l'input: una casella per il colore in formato [HEX](https://en.wikipedia.org/wiki/Web_colors#Hex_triplet), una per la X del punto e una per la Y.
+
+<img style="object-fit:cover; width:100%" src="https://i.ibb.co/gtcWqVr/point-drawer-01.png">

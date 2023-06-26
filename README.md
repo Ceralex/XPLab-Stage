@@ -35,3 +35,40 @@ In questo programma si fa uso della funzionalità DRAW delle immagini inserite i
 - La sezione in basso a sinistra rappresenta l'input: una casella per il colore in formato [HEX](https://en.wikipedia.org/wiki/Web_colors#Hex_triplet), una per la X del punto e una per la Y.
 
 <img style="object-fit:cover; width:100%" src="https://i.ibb.co/gtcWqVr/point-drawer-01.png">
+
+### Gui-02
+Questo programma è composto da due diverse GUI, una è una modifica di quella del Point-drawer precedente, l'altra è dedicata esclusivamente alla selezione e alla creazione dei colori.
+
+<img style="object-fit:cover; width:100%" src="https://i.ibb.co/f2HH44C/grid-02-1.png">
+<img style="object-fit:cover; width:50%" src="https://i.ibb.co/ySWwvjZ/grid-02-2.png">
+
+### File-transfer
+Di questo programma sono state realizzate 3 vesioni diverse: file-transfer-02, file-transfer-03 e file-transfer-04. Tra il primo e il secondo c'è stato un redesign dell'interfaccia, mentre nel file-transfer-04 è stato introdotto il trasferimento di file a segmenti. Questo semplice programma gui permette di inviare dei file ad un host conoscendo il suo indirizzo ip; in una grid in basso è possibile visualizzare la cronologia dei trasferimenti.
+
+<img style="object-fit:cover; width:100%" src="https://i.ibb.co/WWVx4tr/file-transfer-02.png">
+<img style="object-fit:cover; width:100%" src="https://i.ibb.co/RGKC7rJ/file-transfer-04.png">
+
+### Agenda-02
+L'interfaccia del programma è identica a quella di agenda-01, ma al posto che utilizzare una table si fa uso di un database SQLite.
+
+<img style="object-fit:cover; width:100%" src="https://i.ibb.co/WvB6KM2/agenda-01.png" >
+
+### Web-01
+Questo programma è un piccolo browser che sfrutta il componente Webfast di Power-KI per inserire un'interfaccia web in una gui.
+
+<img style="object-fit:cover; width:100%" src="https://i.ibb.co/cvmJtpC/web-01.png">
+
+### Native-cloud-01
+Questo è un programma di test che abbiamo realizzato con l'obiettivo di imparare a utilizzare le remote gui, cioé delle gui hostate su un altra macchina rispetto a quella che si sta utilizzando, ma accessibili in modo remoto conoscendo l'ip della macchina esecutrice del package .pwk.
+
+<img style="object-fit:cover; width:50%" src="https://i.ibb.co/nPTBTWM/native-cloud-01-1.png">
+<img style="object-fit:cover; width:50%" src="https://i.ibb.co/4Fyp8V6/native-cloud-01-2.png">
+
+### Server-remote-01
+Questo è stato sicuramente il programma più complesso realizzato fino ad ora. E' un file explorer con le funzionalità di:
+- Creazione cartelle
+- Rinomina file/cartelle
+- Eliminazione file/cartelle
+- Upload file
+- Download file
+L'intero programma viene eseguito su una gui remota. Questo permette di avere uno scambio di file comodo e semplice da usare tra due o più macchine, idealmente un server e tanti client collegati al server su cui caricano dati.

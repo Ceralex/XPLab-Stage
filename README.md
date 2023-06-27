@@ -45,7 +45,7 @@ Questo programma è composto da due diverse GUI, una è una modifica di quella d
 ![grid-02(2)](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/9af39d35-8219-4f85-84c4-187f2ced3501)
 ---
 ### File-transfer
-Di questo programma sono state realizzate 3 vesioni diverse: file-transfer-02, file-transfer-03 e file-transfer-04. Tra il primo e il secondo c'è stato un redesign dell'interfaccia, mentre nel file-transfer-04 è stato introdotto il trasferimento di file a segmenti. Questo semplice programma gui permette di inviare dei file ad un host conoscendo il suo indirizzo ip; in una grid in basso è possibile visualizzare la cronologia dei trasferimenti.
+Di questo programma sono state realizzate 3 versioni diverse: file-transfer-02, file-transfer-03 e file-transfer-04. Tra il primo e il secondo c'è stato un redesign dell'interfaccia, mentre nel file-transfer-04 è stato introdotto il trasferimento di file a segmenti. Questo semplice programma gui permette di inviare dei file ad un host conoscendo il suo indirizzo ip; in una grid in basso è possibile visualizzare la cronologia dei trasferimenti.
 
 ![file-transfer-02](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/fa5726bb-e809-4552-8255-ddbb8dca71b3)
 ![file-transfer-04](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/d8a8f021-7e19-4cae-8395-ace3cac48a50)

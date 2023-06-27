@@ -45,7 +45,7 @@ This program consists of two different GUIs. One is a modification of the previo
 ![grid-02(2)](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/9af39d35-8219-4f85-84c4-187f2ced3501)
 ---
 ### File-transfer
-Three different versions of this program were developed: file-transfer-02, file-transfer-03,redesign of the interface, and in file-transfer-04, file transfer in segments was introduced. This simple GUI program allows sending files to a host by knowing its IP address, and a grid at the bottom displays the transfer history.
+Three different versions of this program were developed: file-transfer-02, file-transfer-03, and file-transfer-04. Between the first and second versions, there was a redesign of the interface, while in file-transfer-04, file transfer in segments was introduced. This simple GUI program allows sending files to a host by knowing its IP address, and at the bottom, a grid displays the transfer history.
 
 ![file-transfer-02](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/fa5726bb-e809-4552-8255-ddbb8dca71b3)
 ![file-transfer-04](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/d8a8f021-7e19-4cae-8395-ace3cac48a50)

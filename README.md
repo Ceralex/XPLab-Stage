@@ -7,7 +7,7 @@ Sono tutti realizzati nel linguaggio proprietario dell'azienda, [Power-KI](http:
 ### Ciao-01 e Ciao-02
 I primi due programmi realizzati nel primo giorno di stage, ciao-01 è un programma da riga di comando(CLI), invece ciao-02 sfrutta le funzionalità GUI di Power-KI. Questi due esercizi fanno parte della rivista [Fast.Track-01](https://issuu.com/xplab/docs/pwk-ft-01-it) e servono come punto di partenza per conoscere l'ambiente Power-KI.
 
-![ciao-01](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/abaf4a35-ec50-437d-bfe9-95d29cc903bb)
+![ciao-01](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/88d5ed54-5ca7-4371-b16d-6b8fd9bb0a0e)
 ![ciao-02](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/e61c133f-1a92-45d8-b13b-cb0d72357f90)
 ---
 ### Agenda-01

@@ -93,3 +93,8 @@ This program is a school agenda aimed at students that offers several features:
 ![diario(2)](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/b172872f-3d86-4426-9d05-9f6ebe7768cf)
 ![diario(3)](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/9691753c-e1cf-42a9-b119-45cc68a71a57)
 ![diario(4)](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/f7a95305-9357-4ee8-ba30-ec5fafd0cf4d)
+---
+### Durata
+This is the latest program we have created. Starting with a table of 64 rows containing the processing steps of a mechanical press, given the durations, start time and end time of individual operations, it is possible to display the timing graph.
+
+![durata](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/324a8b95-0419-4aab-b1b6-673018f123a8)

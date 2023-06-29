@@ -67,7 +67,8 @@ Questo è un programma di test che abbiamo realizzato con l'obiettivo di imparar
 ![native-cloud-01(2)](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/7a77be01-41c7-4e59-be2a-3cd0f874f03d)
 ---
 ### Server-remote-01
-Questo è stato sicuramente il programma più complesso realizzato fino ad ora. E' un file explorer con le funzionalità di:
+Questo è stato il primo progettino un po' più complesso.<br>
+E' un file explorer con le funzionalità di:
 - Creazione cartelle
 - Rinomina file/cartelle
 - Eliminazione file/cartelle
@@ -79,3 +80,17 @@ L'intero programma viene eseguito su una gui remota. Questo permette di avere un
 ![server-remote-01(1)](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/48220ff8-60c2-4d4c-900f-840f3741f2f1)
 ![server-remote-01(2)](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/4dbb1d68-2069-4b22-a289-cd94366ab480)
 ![server-remote-01(3)](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/7539013c-11e5-4107-8c82-79b25b544285)
+
+### Diario
+Questo programma è una agenda scolastica indirizzata agli studenti che offre diverse funzionalità:
+- Aggiunta e visione dei voti con valutazione, materia e data ordinati per giorno
+- Visione e modifica dell'orario settimanale
+- Pannello di gestione delle materie
+- Pannello di gestione degli eventi con titolo, tipo(verifiche, interrogazioni o compiti per casa), materia, data e appunti
+- Nella home è presente un pannello che mostra una panoramica degli eventi dell'attuale settimana
+
+![diario(1)](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/b9e50c67-b2a5-4cbc-b3ec-59ad1bcf90b1)
+![diario(2)](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/b172872f-3d86-4426-9d05-9f6ebe7768cf)
+![diario(3)](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/9691753c-e1cf-42a9-b119-45cc68a71a57)
+![diario(4)](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/f7a95305-9357-4ee8-ba30-ec5fafd0cf4d)
+

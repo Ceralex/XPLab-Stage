@@ -80,7 +80,7 @@ L'intero programma viene eseguito su una gui remota. Questo permette di avere un
 ![server-remote-01(1)](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/48220ff8-60c2-4d4c-900f-840f3741f2f1)
 ![server-remote-01(2)](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/4dbb1d68-2069-4b22-a289-cd94366ab480)
 ![server-remote-01(3)](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/7539013c-11e5-4107-8c82-79b25b544285)
-
+---
 ### Diario
 Questo programma è una agenda scolastica indirizzata agli studenti che offre diverse funzionalità:
 - Aggiunta e visione dei voti con valutazione, materia e data ordinati per giorno

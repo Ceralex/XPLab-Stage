@@ -93,4 +93,8 @@ Questo programma è una agenda scolastica indirizzata agli studenti che offre di
 ![diario(2)](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/b172872f-3d86-4426-9d05-9f6ebe7768cf)
 ![diario(3)](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/9691753c-e1cf-42a9-b119-45cc68a71a57)
 ![diario(4)](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/f7a95305-9357-4ee8-ba30-ec5fafd0cf4d)
+---
+### Durata
+Questo è l'ultimo programma che abbiamo realizzato. A partire da una table di 64 righe contenenti le fasi di lavorazione di una pressa meccanica, date le durate, il tempo di inizio e di fine delle singole operazioni, è possibile visualizzare il grafico delle tempistiche.
 
+![durata](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/b611e141-bc79-4a8c-a86c-b7a6921745a1)

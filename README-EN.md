@@ -67,7 +67,8 @@ This is a test program we developed with the goal of learning how to use remote 
 ![native-cloud-01(2)](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/7a77be01-41c7-4e59-be2a-3cd0f874f03d)
 ---
 ### Server-remote-01
-This has undoubtedly been the most complex program developed so far. It is a file explorer with the following features:
+This was the first little project that was a bit more complex.<br>
+It is a file explorer with the following features:
 - Folder creation
 - File/folder renaming
 - File/folder deletion

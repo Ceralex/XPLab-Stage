@@ -79,3 +79,16 @@ The entire program is executed on a remote GUI. This allows for convenient and e
 ![server-remote-01(1)](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/48220ff8-60c2-4d4c-900f-840f3741f2f1)
 ![server-remote-01(2)](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/4dbb1d68-2069-4b22-a289-cd94366ab480)
 ![server-remote-01(3)](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/7539013c-11e5-4107-8c82-79b25b544285)
+---
+### Diario
+This program is a school agenda aimed at students that offers several features:
+- Adding and viewing grades with grade, subject and date sorted by day
+- Viewing and editing the weekly schedule
+- Subject management panel
+- Event management panel with title, type(tests, questions or homework), subject, date and notes
+- There is a panel in the home showing an overview of the current week's events
+
+![diario(1)](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/b9e50c67-b2a5-4cbc-b3ec-59ad1bcf90b1)
+![diario(2)](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/b172872f-3d86-4426-9d05-9f6ebe7768cf)
+![diario(3)](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/9691753c-e1cf-42a9-b119-45cc68a71a57)
+![diario(4)](https://github.com/Ale-Ceresa/XPLab-Stage/assets/92877764/f7a95305-9357-4ee8-ba30-ec5fafd0cf4d)

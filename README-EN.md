@@ -3,6 +3,7 @@
 This is a collection of projects developed during the three-week internship at [Xplab S.a.s.](http://xplab.net/) from 12/06/2023 to 30/06/2023.<br>
 The objective was to create a small program for each new library learned, in order to become familiar with it.<br>
 All programs are written in the company's proprietary language, [Power-KI](http://power-ki.com/), and my knowledge of the language when I joined the company was zero.
+
 ---
 ### Ciao-01 and Ciao-02
 The first two programs were developed on the first day of the internship. Ciao-01 is a command-line interface (CLI) program, while Ciao-02 utilizes the GUI features of Power-KI. These two exercises are part of the magazine [Fast.Track-01](https://issuu.com/xplab/docs/pwk-ft-01-en) and serve as a starting point to learn the Power-KI environment.
